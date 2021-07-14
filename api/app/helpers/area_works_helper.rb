@@ -1,0 +1,2 @@
+module AreaWorksHelper
+end

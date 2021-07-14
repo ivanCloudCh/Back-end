@@ -1,0 +1,2 @@
+class AreaWork < ApplicationRecord
+end

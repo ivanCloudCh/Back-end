@@ -1,0 +1,1 @@
+Permission.create(id: Permission::HOME, name: 'Inicio')
